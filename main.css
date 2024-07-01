@@ -95,7 +95,7 @@ p{
     line-height: 150%; /* 21px */
 }
 
-@media (max-width: 375px){
+@media (max-width: 430px){
     .container{
         width: 327px;
         padding: 24px;
