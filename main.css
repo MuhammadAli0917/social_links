@@ -95,12 +95,10 @@ p{
     line-height: 150%; /* 21px */
 }
 
-@media screen and (max-width: 375px){
+@media (max-width: 375px){
     .container{
         width: 327px;
         padding: 24px;
         border-radius: 8px;
     }
-
-
 }
